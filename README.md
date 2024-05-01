@@ -1,3 +1,3 @@
 # stackaholic.python.fastapi
-Implementing a simple HTTP API in as many stacks as I can find.
+Implementing a simple HTTP API in as many stacks as I can find.\n
 Today we're doing Python FastAPI
